@@ -22,6 +22,7 @@ Pick a category, find a prompt that matches your task, and paste it into your AI
 Prompts for analyzing, reviewing, and improving code.
 
 - [Git Commit Workflow](coding/git-commit-workflow.md) — Slash command for interactive commit with approval
+- [Commit Message Generator](coding/commit-msg.md) — Generate a conventional commit message (read-only)
 - [Project Analysis](coding/project-analysis.md) — Explore and understand unfamiliar codebases
 
 ### Writing
