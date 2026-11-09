@@ -34,6 +34,9 @@ Prompts for deep thinking, architecture decisions, and exploring complex topics.
 ### Creative
 Prompts for ideation and creative brainstorming.
 
+### Superpowers
+Structured workflows for complex tasks — brainstorming, debugging, planning, and more. [Learn more →](superpowers/README.md)
+
 ## Adding Your Own Prompts
 
 1. Choose the most relevant category
