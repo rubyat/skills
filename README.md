@@ -25,6 +25,7 @@ Prompts for analyzing, reviewing, and improving code.
 - [Commit Message Generator](coding/commit-msg.md) — Generate a conventional commit message (read-only)
 - [Project Analysis](coding/project-analysis.md) — Explore and understand unfamiliar codebases
 - [Website Alignment Audit](coding/website-alignment-audit.md) — Audit and fix container alignment, gutters, and responsive layout across a website
+- [Database Audit](coding/database-audit.md) — Audit and optimize slow queries, indexes, joins, N+1 issues, and SQL injection risks
 
 ### Writing
 Prompts for professional writing tasks — emails, docs, marketing copy.
